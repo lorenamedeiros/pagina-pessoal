@@ -1,0 +1,50 @@
+html,
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.conteudo {
+    height: 100%;
+    width: 100%;
+}
+
+td {
+    vertical-align: top;
+}
+
+.barra-lateral {
+    width: 20%;
+    text-align: center;
+    padding-top: 40px;
+    background-color: #1976d2;
+    color: white;
+}
+
+.apresentacao {
+    width: 80%;
+    vertical-align: middle;
+    padding: 40px;
+    background-color: #bbdefb;
+}
+
+.imagem-do-perfil {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border-color: #bbdefb;
+    border-width: 8px;
+    border-style: solid;
+}
+
+.centralizado {
+    text-align: center;
+    margin: auto auto;
+}
+
+.linha {
+    font-size: 24px;
+}
